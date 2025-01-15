@@ -8,6 +8,8 @@ on:
   push:
     branches:
       - main
+      # TODO: Remove when merged into main
+      - feature/get-vivid
     paths:
       - ".github/renovate.json5"
       - ".github/workflows/renovate.yml"

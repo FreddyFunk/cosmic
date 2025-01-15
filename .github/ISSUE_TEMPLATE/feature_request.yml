@@ -30,5 +30,6 @@ body:
         - Silverblue
         - Ubuntu
         - Vauxite
+        - Vivid
     validations:
       required: true

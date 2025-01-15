@@ -5,6 +5,8 @@ on:
     branches:
       - main
       - testing
+      # TODO: Remove when merged into main
+      - feature/get-vivid
     paths-ignore:
       - "**.md"
   schedule:

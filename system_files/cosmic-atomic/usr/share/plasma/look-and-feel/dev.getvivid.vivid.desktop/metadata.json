@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Universal Blue"
+            }
+        ],
+        "Category": "",
+        "Description": "Vivid - Theme variant of KDE BreezeDark",
+        "Id": "dev.getvivid.vivid.desktop",
+        "License": "GPLv2+",
+        "Name": "Vivid",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "0.01",
+        "Website": "https://getvivid.dev"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-MainScript": "defaults"
+}
